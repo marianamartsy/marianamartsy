@@ -7,7 +7,7 @@ Frontend Developer
 A passionate and aspiring frontend developer. I am constantly exploring new technologies and frameworks to enhance my development abilities.  
 * 🌍  I'm based in Warsaw
 * ✉️  You can contact me at [mariana.martsy@gmail.com](mailto:mariana.martsy@gmail.com)
-* 🧠  I'm learning React, Devops
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on new projects as I seek fresh challenges and opportunities to expand my skills and stay up-to-date with the latest industry trends.
 
 ### Skills  
